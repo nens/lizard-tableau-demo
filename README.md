@@ -8,4 +8,4 @@
 - Use the data in Tableau
 
 
-![alt text](http://imgur.com/a24c896f-3c1b-49ac-aea5-66b1f7eb11dd "")
+![alt text](http://i.imgur.com/kwOhMQd.jpg "")
